@@ -9,7 +9,7 @@ At this stage, I am programming the bot to count from 0 to any positive number e
 
 At this stage, I'm improving my simple bot so that it can give you a test and check your answers. The test should be about programming. My bot will continue to ask the test until the answer is correct. an option starts with a digit followed by the dot (1., 2., 3., 4.) If a user enters an incorrect answer, the bot may print a message: Please, try again.
 
-Hello! My name is {botname}. I was created in {birthyear}. Please, remind me your name. What a great name you have, {yourname}! Let me guess your age. Say me remainders of dividing your age by 3, 5 and 7. Your age is {yourage}: that's a good time to start programming! Now I will prove to you that I can count to any number you want. Let's test your programming knowledge. Why do we use methods?
+Hello! My name is {botname}. I was created in {birthyear}. Please, remind me your name. What a great name you have, {yourname}! Let me guess your age. Say me remainders of dividing your age by 3, 5 and 7. Your age is {yourage}: that's a good time to start programming! Now I will prove to you that I can count to any number you want. Let's test your programming knowledge. Why do we use methods??
 
     To repeat a statement multiple times.
     To decompose a program into several small subroutines.
