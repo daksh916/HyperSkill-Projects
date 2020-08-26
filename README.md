@@ -14,4 +14,4 @@ Hello! My name is {botname}. I was created in {birthyear}. Please, remind me you
     To repeat a statement multiple times.
     To decompose a program into several small subroutines.
     To determine the execution time of a program.
-    To interrupt the execution of a program. Enters 4 Please, try again. Enters 2 Congratulations, correct answer! Congratulations, have a nice day!
+    To interrupt the execution of a program. Enters 4 Please, try again. Enters 2 Congratulations, correct answer! Congratulations, have a nice day
