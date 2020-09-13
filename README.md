@@ -1,4 +1,5 @@
-# Simple Chatty Bot
+# Simple
+_Chatty Bot
 In this project, I'm creating step by step a simple bot.
 
 For the first stage, I'm writing a bot who displays a greeting, its name and the date of its creation. Hello! My name is {botName}. I was created in {birthYear}.
