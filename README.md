@@ -15,3 +15,4 @@ Hello! My name is {botname}. I was created in {birthyear}. Please, remind me you
     To decompose a program into several small subroutines.
     To determine the execution time of a program.
     To interrupt the execution of a program. Enters 4 Please, try again. Enters 2 Congratulations, correct answer! Congratulations, have a nice day!
+    I hope everyone will contribute in my project to help me learn from my mistakes and making it better.
